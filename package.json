@@ -1,0 +1,56 @@
+{
+  "name": "devdevstorm",
+  "displayName": "DevDevStorm",
+  "description": "Theme inspired by JetBrains' 'Classic Light' color scheme",
+  "publisher": "devdevdany",
+  "author": {
+    "name": "Dany Reyna"
+  },
+  "version": "2.0",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devdevdany/devdevstorm-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/devdevdany/devdevstorm-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09A5F2",
+    "theme": "light"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "DevDevStorm Theme",
+    "Light Theme",
+    "devdevstorm",
+    "JetBrains",
+    "WebStorm",
+    "JavaScript",
+    "React",
+    "TypeScript",
+    "RegExp",
+    "CSS",
+    "HTML",
+    "JSON",
+    "Markdown",
+    "light",
+    "blue",
+    "green",
+    "purple"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "devdevstorm",
+        "uiTheme": "vs",
+        "path": "./themes/devdevstorm-color-theme.json"
+      }
+    ]
+  }
+}

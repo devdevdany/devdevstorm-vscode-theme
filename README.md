@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "devdevstorm"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# DevDevStorm Theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![DevDevStorm Theme Logo](images/icon.png "DevDevStorm Theme Logo")
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Description
+
+Theme inspired by JetBrains' 'Classic Light' color scheme.
+
+## Info
+
+This theme has been optimized for JavaScript, JavaScript React, TypeScript, TypeScript React, RegExp, CSS, HTML, JSON and Markdown.
+
+Other languages are not tested and may differ from JetBrains' color scheme.
+
+If you want to improve this theme, feel free to file an issue or submit a PR.
+
+## Font Settings
+
+To get the full theme experience install [JetBrains Mono](https://jetbrains.com/mono) and set the following settings in VSCode:
+
+```json
+"editor.fontFamily": "JetBrains Mono",
+"editor.fontSize": 13,
+```
 
 **Enjoy!**
