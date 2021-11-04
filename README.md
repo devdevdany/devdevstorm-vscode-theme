@@ -12,8 +12,6 @@ This theme has been optimized for JavaScript, JavaScript React, TypeScript, Type
 
 Other languages are not tested and may differ from JetBrains' color scheme.
 
-If you want to improve this theme, feel free to file an issue or submit a PR.
-
 ## Font Settings
 
 To get the full theme experience install [JetBrains Mono](https://jetbrains.com/mono) and set the following settings in VSCode:
@@ -24,3 +22,11 @@ To get the full theme experience install [JetBrains Mono](https://jetbrains.com/
 ```
 
 **Enjoy!**
+
+## Contributing
+
+If you want to improve this theme, feel free to [file an issue](https://github.com/devdevdany/devdevstorm-vscode-theme/issues) or submit a PR.
+
+## License
+
+[MIT License](https://github.com/devdevdany/devdevstorm-vscode-theme/blob/main/README.md)
