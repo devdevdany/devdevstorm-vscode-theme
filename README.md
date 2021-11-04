@@ -29,4 +29,4 @@ If you want to improve this theme, feel free to [file an issue](https://github.c
 
 ## License
 
-[MIT License](https://github.com/devdevdany/devdevstorm-vscode-theme/blob/main/README.md)
+[MIT License](https://github.com/devdevdany/devdevstorm-vscode-theme/blob/main/LICENSE.md)
